@@ -6,7 +6,7 @@
   <link href="http://nichunen.github.io/atom.xml" rel="self"/>
   
   <link href="http://nichunen.github.io/"/>
-  <updated>2022-08-05T05:57:01.583Z</updated>
+  <updated>2023-03-19T06:47:11.764Z</updated>
   <id>http://nichunen.github.io/</id>
   
   <author>
@@ -17,43 +17,19 @@
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
-    <title>lc-78</title>
-    <link href="http://nichunen.github.io/2022/08/05/lc-78/"/>
-    <id>http://nichunen.github.io/2022/08/05/lc-78/</id>
-    <published>2022-08-05T03:36:34.000Z</published>
-    <updated>2022-08-05T05:57:01.583Z</updated>
+    <title>offer2-12</title>
+    <link href="http://nichunen.github.io/2023/03/19/offer2-12/"/>
+    <id>http://nichunen.github.io/2023/03/19/offer2-12/</id>
+    <published>2023-03-19T03:23:46.000Z</published>
+    <updated>2023-03-19T06:47:11.764Z</updated>
     
     
       
       
         
         
-    <summary type="html">&lt;pre class=&quot;line-numbers language-java&quot; data-language=&quot;java&quot;&gt;&lt;code class=&quot;language-java&quot;&gt;&lt;span class=&quot;token comment&quot;&gt;//Given an integer</summary>
-        
-      
-    
-    
-    
-    <category term="leetcode" scheme="http://nichunen.github.io/categories/leetcode/"/>
-    
-    
-    <category term="leetcode" scheme="http://nichunen.github.io/tags/leetcode/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>lc-76</title>
-    <link href="http://nichunen.github.io/2022/08/04/lc-76/"/>
-    <id>http://nichunen.github.io/2022/08/04/lc-76/</id>
-    <published>2022-08-04T07:08:53.000Z</published>
-    <updated>2022-08-04T15:53:48.937Z</updated>
-    
-    
-      
-      
-        
-        
-    <summary type="html">&lt;pre class=&quot;line-numbers language-java&quot; data-language=&quot;java&quot;&gt;&lt;code class=&quot;language-java&quot;&gt;&lt;span class=&quot;token comment&quot;&gt;//Given two strings s</summary>
+    <summary type="html">&lt;p&gt;给你一个整数数组 &lt;code&gt;nums&lt;/code&gt; ，请计算数组的 &lt;strong&gt;中心下标&lt;/strong&gt; 。&lt;/p&gt;
+&lt;p&gt;数组 &lt;strong&gt;中心下标&lt;/strong&gt;</summary>
         
       
     
@@ -67,43 +43,20 @@
   </entry>
   
   <entry>
-    <title>lc-75</title>
-    <link href="http://nichunen.github.io/2022/08/03/lc-75/"/>
-    <id>http://nichunen.github.io/2022/08/03/lc-75/</id>
-    <published>2022-08-03T02:48:58.000Z</published>
-    <updated>2022-08-03T09:17:02.711Z</updated>
+    <title>offer2-11</title>
+    <link href="http://nichunen.github.io/2023/03/17/offer2-11/"/>
+    <id>http://nichunen.github.io/2023/03/17/offer2-11/</id>
+    <published>2023-03-17T03:01:58.000Z</published>
+    <updated>2023-03-17T05:38:41.478Z</updated>
     
     
       
       
         
         
-    <summary type="html">&lt;pre class=&quot;line-numbers language-java&quot; data-language=&quot;java&quot;&gt;&lt;code class=&quot;language-java&quot;&gt;&lt;span class=&quot;token comment&quot;&gt;//Given an array nums</summary>
-        
-      
-    
-    
-    
-    <category term="leetcode" scheme="http://nichunen.github.io/categories/leetcode/"/>
-    
-    
-    <category term="leetcode" scheme="http://nichunen.github.io/tags/leetcode/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>lc-73</title>
-    <link href="http://nichunen.github.io/2022/08/02/lc-73/"/>
-    <id>http://nichunen.github.io/2022/08/02/lc-73/</id>
-    <published>2022-08-02T06:01:20.000Z</published>
-    <updated>2022-08-02T09:45:34.647Z</updated>
-    
-    
-      
-      
-        
-        
-    <summary type="html">&lt;pre class=&quot;line-numbers language-java&quot; data-language=&quot;java&quot;&gt;&lt;code class=&quot;language-java&quot;&gt;&lt;span class=&quot;token comment&quot;&gt;//Given an m x n</summary>
+    <summary type="html">&lt;p&gt;给定一个二进制数组 &lt;code&gt;nums&lt;/code&gt; , 找到含有相同数量的 &lt;code&gt;0&lt;/code&gt; 和 &lt;code&gt;1&lt;/code&gt; 的最长连续子数组，并返回该子数组的长度。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;示例 1：&lt;/strong&gt;&lt;/p&gt;
+&lt;pre</summary>
         
       
     
@@ -117,43 +70,20 @@
   </entry>
   
   <entry>
-    <title>lc-70</title>
-    <link href="http://nichunen.github.io/2022/08/01/lc-70/"/>
-    <id>http://nichunen.github.io/2022/08/01/lc-70/</id>
-    <published>2022-08-01T02:35:30.000Z</published>
-    <updated>2022-08-01T07:53:26.312Z</updated>
+    <title>offer2-10</title>
+    <link href="http://nichunen.github.io/2023/03/16/offer2-10/"/>
+    <id>http://nichunen.github.io/2023/03/16/offer2-10/</id>
+    <published>2023-03-16T03:03:22.000Z</published>
+    <updated>2023-03-16T07:11:20.839Z</updated>
     
     
       
       
         
         
-    <summary type="html">&lt;pre class=&quot;line-numbers language-java&quot; data-language=&quot;java&quot;&gt;&lt;code class=&quot;language-java&quot;&gt;&lt;span class=&quot;token comment&quot;&gt;//You are climbing a</summary>
-        
-      
-    
-    
-    
-    <category term="leetcode" scheme="http://nichunen.github.io/categories/leetcode/"/>
-    
-    
-    <category term="leetcode" scheme="http://nichunen.github.io/tags/leetcode/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>lc-69</title>
-    <link href="http://nichunen.github.io/2022/07/29/lc-69/"/>
-    <id>http://nichunen.github.io/2022/07/29/lc-69/</id>
-    <published>2022-07-29T03:42:21.000Z</published>
-    <updated>2022-07-29T05:47:46.661Z</updated>
-    
-    
-      
-      
-        
-        
-    <summary type="html">&lt;pre class=&quot;line-numbers language-java&quot; data-language=&quot;java&quot;&gt;&lt;code class=&quot;language-java&quot;&gt;&lt;span class=&quot;token comment&quot;&gt;//Given a non-negative</summary>
+    <summary type="html">&lt;p&gt;给定一个整数数组和一个整数 &lt;code&gt;k&lt;/code&gt; &lt;strong&gt;，&lt;/strong&gt;请找到该数组中和为 &lt;code&gt;k&lt;/code&gt; 的连续子数组的个数。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;示例 1：&lt;/strong&gt;&lt;/p&gt;
+&lt;pre</summary>
         
       
     
@@ -167,43 +97,20 @@
   </entry>
   
   <entry>
-    <title>lc-66</title>
-    <link href="http://nichunen.github.io/2022/07/28/lc-66/"/>
-    <id>http://nichunen.github.io/2022/07/28/lc-66/</id>
-    <published>2022-07-28T05:47:09.000Z</published>
-    <updated>2022-07-28T07:53:37.545Z</updated>
+    <title>offer2-9</title>
+    <link href="http://nichunen.github.io/2023/03/15/offer2-9/"/>
+    <id>http://nichunen.github.io/2023/03/15/offer2-9/</id>
+    <published>2023-03-15T02:53:51.000Z</published>
+    <updated>2023-03-15T06:10:58.876Z</updated>
     
     
       
       
         
         
-    <summary type="html">&lt;pre class=&quot;line-numbers language-java&quot; data-language=&quot;java&quot;&gt;&lt;code class=&quot;language-java&quot;&gt;&lt;span class=&quot;token comment&quot;&gt;//You are given a</summary>
-        
-      
-    
-    
-    
-    <category term="leetcode" scheme="http://nichunen.github.io/categories/leetcode/"/>
-    
-    
-    <category term="leetcode" scheme="http://nichunen.github.io/tags/leetcode/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>lc-62</title>
-    <link href="http://nichunen.github.io/2022/07/27/lc-62/"/>
-    <id>http://nichunen.github.io/2022/07/27/lc-62/</id>
-    <published>2022-07-27T08:10:08.000Z</published>
-    <updated>2022-07-27T09:15:14.145Z</updated>
-    
-    
-      
-      
-        
-        
-    <summary type="html">&lt;pre class=&quot;line-numbers language-java&quot; data-language=&quot;java&quot;&gt;&lt;code class=&quot;language-java&quot;&gt;&lt;span class=&quot;token comment&quot;&gt;//There is a robot on</summary>
+    <summary type="html">&lt;p&gt;给定一个正整数数组 &lt;code&gt;nums&lt;/code&gt;和整数 &lt;code&gt;k&lt;/code&gt; ，请找出该数组内乘积小于 &lt;code&gt;k&lt;/code&gt; 的连续的子数组的个数。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;示例 1:&lt;/strong&gt;&lt;/p&gt;
+&lt;pre</summary>
         
       
     
@@ -217,43 +124,19 @@
   </entry>
   
   <entry>
-    <title>lc-56</title>
-    <link href="http://nichunen.github.io/2022/07/26/lc-56/"/>
-    <id>http://nichunen.github.io/2022/07/26/lc-56/</id>
-    <published>2022-07-26T03:20:51.000Z</published>
-    <updated>2022-07-26T13:15:26.565Z</updated>
+    <title>offer2-8</title>
+    <link href="http://nichunen.github.io/2023/03/14/offer2-8/"/>
+    <id>http://nichunen.github.io/2023/03/14/offer2-8/</id>
+    <published>2023-03-14T02:52:21.000Z</published>
+    <updated>2023-03-14T06:16:28.374Z</updated>
     
     
       
       
         
         
-    <summary type="html">&lt;pre class=&quot;line-numbers language-java&quot; data-language=&quot;java&quot;&gt;&lt;code class=&quot;language-java&quot;&gt;&lt;span class=&quot;token comment&quot;&gt;//Given an array of</summary>
-        
-      
-    
-    
-    
-    <category term="leetcode" scheme="http://nichunen.github.io/categories/leetcode/"/>
-    
-    
-    <category term="leetcode" scheme="http://nichunen.github.io/tags/leetcode/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>lc-55</title>
-    <link href="http://nichunen.github.io/2022/07/22/lc-55/"/>
-    <id>http://nichunen.github.io/2022/07/22/lc-55/</id>
-    <published>2022-07-22T02:38:46.000Z</published>
-    <updated>2022-07-26T03:21:26.571Z</updated>
-    
-    
-      
-      
-        
-        
-    <summary type="html">&lt;pre class=&quot;line-numbers language-java&quot; data-language=&quot;java&quot;&gt;&lt;code class=&quot;language-java&quot;&gt;&lt;span class=&quot;token comment&quot;&gt;//You are given an</summary>
+    <summary type="html">&lt;p&gt;给定一个含有 &lt;code&gt;n&lt;/code&gt; 个正整数的数组和一个正整数 &lt;code&gt;target&lt;/code&gt; &lt;strong&gt;。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;找出该数组中满足其和 &lt;code&gt;≥ target&lt;/code&gt; 的长度最小的</summary>
         
       
     
@@ -267,43 +150,18 @@
   </entry>
   
   <entry>
-    <title>lc-54</title>
-    <link href="http://nichunen.github.io/2022/07/21/lc-54/"/>
-    <id>http://nichunen.github.io/2022/07/21/lc-54/</id>
-    <published>2022-07-21T02:05:40.000Z</published>
-    <updated>2022-07-21T05:55:46.284Z</updated>
+    <title>offer2-7</title>
+    <link href="http://nichunen.github.io/2023/03/13/offer2-7/"/>
+    <id>http://nichunen.github.io/2023/03/13/offer2-7/</id>
+    <published>2023-03-13T03:16:49.000Z</published>
+    <updated>2023-03-13T08:44:01.201Z</updated>
     
     
       
       
         
         
-    <summary type="html">&lt;pre class=&quot;line-numbers language-java&quot; data-language=&quot;java&quot;&gt;&lt;code class=&quot;language-java&quot;&gt;&lt;span class=&quot;token comment&quot;&gt;//Given an m x n</summary>
-        
-      
-    
-    
-    
-    <category term="leetcode" scheme="http://nichunen.github.io/categories/leetcode/"/>
-    
-    
-    <category term="leetcode" scheme="http://nichunen.github.io/tags/leetcode/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>lc-53</title>
-    <link href="http://nichunen.github.io/2022/07/20/lc-53/"/>
-    <id>http://nichunen.github.io/2022/07/20/lc-53/</id>
-    <published>2022-07-20T05:05:26.000Z</published>
-    <updated>2022-07-20T07:33:00.722Z</updated>
-    
-    
-      
-      
-        
-        
-    <summary type="html">&lt;pre class=&quot;line-numbers language-java&quot; data-language=&quot;java&quot;&gt;&lt;code class=&quot;language-java&quot;&gt;&lt;span class=&quot;token comment&quot;&gt;//Given an integer</summary>
+    <summary type="html">&lt;p&gt;给你一个整数数组 &lt;code&gt;nums&lt;/code&gt; ，判断是否存在三元组 &lt;code&gt;[nums[i], nums[j], nums[k]]&lt;/code&gt; 满足 &lt;code&gt;i != j&lt;/code&gt;、&lt;code&gt;i != k&lt;/code&gt; 且 &lt;code&gt;j !=</summary>
         
       
     
@@ -317,43 +175,19 @@
   </entry>
   
   <entry>
-    <title>lc-50</title>
-    <link href="http://nichunen.github.io/2022/07/19/lc-50/"/>
-    <id>http://nichunen.github.io/2022/07/19/lc-50/</id>
-    <published>2022-07-19T02:34:30.000Z</published>
-    <updated>2022-07-19T06:10:58.726Z</updated>
+    <title>offer2-6</title>
+    <link href="http://nichunen.github.io/2023/03/12/offer2-6/"/>
+    <id>http://nichunen.github.io/2023/03/12/offer2-6/</id>
+    <published>2023-03-12T12:03:18.000Z</published>
+    <updated>2023-03-12T15:02:43.710Z</updated>
     
     
       
       
         
         
-    <summary type="html">&lt;pre class=&quot;line-numbers language-java&quot; data-language=&quot;java&quot;&gt;&lt;code class=&quot;language-java&quot;&gt;&lt;span class=&quot;token comment&quot;&gt;//Implement pow(x, n),</summary>
-        
-      
-    
-    
-    
-    <category term="leetcode" scheme="http://nichunen.github.io/categories/leetcode/"/>
-    
-    
-    <category term="leetcode" scheme="http://nichunen.github.io/tags/leetcode/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>lc-49</title>
-    <link href="http://nichunen.github.io/2022/07/18/lc-49/"/>
-    <id>http://nichunen.github.io/2022/07/18/lc-49/</id>
-    <published>2022-07-18T11:53:03.000Z</published>
-    <updated>2022-07-18T12:12:06.942Z</updated>
-    
-    
-      
-      
-        
-        
-    <summary type="html">&lt;pre class=&quot;line-numbers language-java&quot; data-language=&quot;java&quot;&gt;&lt;code class=&quot;language-java&quot;&gt;&lt;span class=&quot;token comment&quot;&gt;//Given an array of</summary>
+    <summary type="html">&lt;p&gt;给定一个已按照 &lt;strong&gt;升序排列&lt;/strong&gt; 的整数数组 &lt;code&gt;numbers&lt;/code&gt; ，请你从数组中找出两个数满足相加之和等于目标数 &lt;code&gt;target&lt;/code&gt; 。&lt;/p&gt;
+&lt;p&gt;函数应该以长度为 &lt;code&gt;2&lt;/code&gt;</summary>
         
       
     
@@ -367,43 +201,18 @@
   </entry>
   
   <entry>
-    <title>lc-48</title>
-    <link href="http://nichunen.github.io/2022/07/13/lc-48/"/>
-    <id>http://nichunen.github.io/2022/07/13/lc-48/</id>
-    <published>2022-07-13T03:20:28.000Z</published>
-    <updated>2022-07-13T08:17:51.450Z</updated>
+    <title>offer2-5</title>
+    <link href="http://nichunen.github.io/2023/03/09/offer2-5/"/>
+    <id>http://nichunen.github.io/2023/03/09/offer2-5/</id>
+    <published>2023-03-09T03:50:56.000Z</published>
+    <updated>2023-03-10T06:29:36.536Z</updated>
     
     
       
       
         
         
-    <summary type="html">&lt;pre class=&quot;line-numbers language-java&quot; data-language=&quot;java&quot;&gt;&lt;code class=&quot;language-java&quot;&gt;&lt;span class=&quot;token comment&quot;&gt;//You are given an n x</summary>
-        
-      
-    
-    
-    
-    <category term="leetcode" scheme="http://nichunen.github.io/categories/leetcode/"/>
-    
-    
-    <category term="leetcode" scheme="http://nichunen.github.io/tags/leetcode/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>lc-46</title>
-    <link href="http://nichunen.github.io/2022/07/12/lc-46/"/>
-    <id>http://nichunen.github.io/2022/07/12/lc-46/</id>
-    <published>2022-07-12T02:30:28.000Z</published>
-    <updated>2022-07-12T02:51:17.334Z</updated>
-    
-    
-      
-      
-        
-        
-    <summary type="html">&lt;pre class=&quot;line-numbers language-java&quot; data-language=&quot;java&quot;&gt;&lt;code class=&quot;language-java&quot;&gt;&lt;span class=&quot;token comment&quot;&gt;//Given an array nums</summary>
+    <summary type="html">&lt;p&gt;给定一个字符串数组 &lt;code&gt;words&lt;/code&gt;，请计算当两个字符串 &lt;code&gt;words[i]&lt;/code&gt; 和 &lt;code&gt;words[j]&lt;/code&gt;</summary>
         
       
     
@@ -417,43 +226,19 @@
   </entry>
   
   <entry>
-    <title>lc-44</title>
-    <link href="http://nichunen.github.io/2022/07/11/lc-44/"/>
-    <id>http://nichunen.github.io/2022/07/11/lc-44/</id>
-    <published>2022-07-11T03:42:50.000Z</published>
-    <updated>2022-07-11T12:15:21.583Z</updated>
+    <title>offer2-4</title>
+    <link href="http://nichunen.github.io/2023/03/08/offer2-4/"/>
+    <id>http://nichunen.github.io/2023/03/08/offer2-4/</id>
+    <published>2023-03-08T03:22:54.000Z</published>
+    <updated>2023-03-08T07:13:45.108Z</updated>
     
     
       
       
         
         
-    <summary type="html">&lt;pre class=&quot;line-numbers language-java&quot; data-language=&quot;java&quot;&gt;&lt;code class=&quot;language-java&quot;&gt;&lt;span class=&quot;token comment&quot;&gt;//Given an input</summary>
-        
-      
-    
-    
-    
-    <category term="默认" scheme="http://nichunen.github.io/categories/%E9%BB%98%E8%AE%A4/"/>
-    
-    
-    <category term="其他" scheme="http://nichunen.github.io/tags/%E5%85%B6%E4%BB%96/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>lc-42</title>
-    <link href="http://nichunen.github.io/2022/07/08/lc-42/"/>
-    <id>http://nichunen.github.io/2022/07/08/lc-42/</id>
-    <published>2022-07-08T03:27:17.000Z</published>
-    <updated>2022-07-08T05:50:43.185Z</updated>
-    
-    
-      
-      
-        
-        
-    <summary type="html">&lt;pre class=&quot;line-numbers language-java&quot; data-language=&quot;java&quot;&gt;&lt;code class=&quot;language-java&quot;&gt;&lt;span class=&quot;token comment&quot;&gt;//Given n non-negative</summary>
+    <summary type="html">&lt;p&gt;给你一个整数数组 &lt;code&gt;nums&lt;/code&gt; ，除某个元素仅出现 &lt;strong&gt;一次&lt;/strong&gt; 外，其余每个元素都恰出现 &lt;strong&gt;三次 。&lt;/strong&gt;请你找出并返回那个只出现了一次的元素。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;示例</summary>
         
       
     
@@ -467,18 +252,20 @@
   </entry>
   
   <entry>
-    <title>lc-41</title>
-    <link href="http://nichunen.github.io/2022/07/06/lc-41/"/>
-    <id>http://nichunen.github.io/2022/07/06/lc-41/</id>
-    <published>2022-07-06T02:54:20.000Z</published>
-    <updated>2022-07-07T06:15:58.137Z</updated>
+    <title>offer2-3</title>
+    <link href="http://nichunen.github.io/2023/03/07/offer2-3/"/>
+    <id>http://nichunen.github.io/2023/03/07/offer2-3/</id>
+    <published>2023-03-07T03:14:37.000Z</published>
+    <updated>2023-03-07T03:46:30.730Z</updated>
     
     
       
       
         
         
-    <summary type="html">&lt;pre class=&quot;line-numbers language-java&quot; data-language=&quot;java&quot;&gt;&lt;code class=&quot;language-java&quot;&gt;&lt;span class=&quot;token comment&quot;&gt;//Given an unsorted</summary>
+    <summary type="html">&lt;p&gt;给定一个非负整数 &lt;code&gt;n&lt;/code&gt; ，请计算 &lt;code&gt;0&lt;/code&gt; 到 &lt;code&gt;n&lt;/code&gt; 之间的每个数字的二进制表示中 1 的个数，并输出一个数组。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;示例 1:&lt;/strong&gt;&lt;/p&gt;
+&lt;pre</summary>
         
       
     
@@ -492,18 +279,255 @@
   </entry>
   
   <entry>
-    <title>lc-38</title>
-    <link href="http://nichunen.github.io/2022/07/05/lc-38/"/>
-    <id>http://nichunen.github.io/2022/07/05/lc-38/</id>
-    <published>2022-07-05T02:46:51.000Z</published>
-    <updated>2022-07-06T02:55:04.660Z</updated>
+    <title>offer2-2</title>
+    <link href="http://nichunen.github.io/2023/03/06/offer2-2/"/>
+    <id>http://nichunen.github.io/2023/03/06/offer2-2/</id>
+    <published>2023-03-06T05:27:38.000Z</published>
+    <updated>2023-03-06T06:14:16.845Z</updated>
     
     
       
       
         
         
-    <summary type="html">&lt;pre class=&quot;line-numbers language-java&quot; data-language=&quot;java&quot;&gt;&lt;code class=&quot;language-java&quot;&gt;&lt;span class=&quot;token comment&quot;&gt;//The count-and-say</summary>
+    <summary type="html">&lt;p&gt;给定两个 01 字符串 &lt;code&gt;a&lt;/code&gt; 和 &lt;code&gt;b&lt;/code&gt; ，请计算它们的和，并以二进制字符串的形式输出。&lt;/p&gt;
+&lt;p&gt;输入为 &lt;strong&gt;非空&lt;/strong&gt; 字符串且只包含数字 &lt;code&gt;1&lt;/code&gt; 和</summary>
+        
+      
+    
+    
+    
+    <category term="leetcode" scheme="http://nichunen.github.io/categories/leetcode/"/>
+    
+    
+    <category term="leetcode" scheme="http://nichunen.github.io/tags/leetcode/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>offer2-1</title>
+    <link href="http://nichunen.github.io/2023/03/05/offer2-1/"/>
+    <id>http://nichunen.github.io/2023/03/05/offer2-1/</id>
+    <published>2023-03-05T07:47:12.000Z</published>
+    <updated>2023-03-05T09:09:28.713Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;p&gt;给定两个整数 &lt;code&gt;a&lt;/code&gt; 和 &lt;code&gt;b&lt;/code&gt; ，求它们的除法的商 &lt;code&gt;a/b&lt;/code&gt; ，要求不得使用乘号 &lt;code&gt;&#39;*&#39;&lt;/code&gt;、除号 &lt;code&gt;&#39;/&#39;&lt;/code&gt; 以及求余符号 &lt;code&gt;&#39;%&#39;&lt;/code&gt;</summary>
+        
+      
+    
+    
+    
+    <category term="leetcode" scheme="http://nichunen.github.io/categories/leetcode/"/>
+    
+    
+    <category term="leetcode" scheme="http://nichunen.github.io/tags/leetcode/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>offer-68-2</title>
+    <link href="http://nichunen.github.io/2023/03/03/offer-68-2/"/>
+    <id>http://nichunen.github.io/2023/03/03/offer-68-2/</id>
+    <published>2023-03-03T03:05:09.000Z</published>
+    <updated>2023-03-03T06:02:20.539Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;p&gt;给定一个二叉树, 找到该树中两个指定节点的最近公共祖先。&lt;/p&gt;
+&lt;p&gt;&lt;a</summary>
+        
+      
+    
+    
+    
+    <category term="leetcode" scheme="http://nichunen.github.io/categories/leetcode/"/>
+    
+    
+    <category term="leetcode" scheme="http://nichunen.github.io/tags/leetcode/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>offer-68-1</title>
+    <link href="http://nichunen.github.io/2023/03/02/offer-68-1/"/>
+    <id>http://nichunen.github.io/2023/03/02/offer-68-1/</id>
+    <published>2023-03-02T02:36:31.000Z</published>
+    <updated>2023-03-02T03:48:32.271Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;p&gt;给定一个二叉搜索树, 找到该树中两个指定节点的最近公共祖先。&lt;/p&gt;
+&lt;p&gt;&lt;a</summary>
+        
+      
+    
+    
+    
+    <category term="leetcode" scheme="http://nichunen.github.io/categories/leetcode/"/>
+    
+    
+    <category term="leetcode" scheme="http://nichunen.github.io/tags/leetcode/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>offer-66</title>
+    <link href="http://nichunen.github.io/2023/03/01/offer-66/"/>
+    <id>http://nichunen.github.io/2023/03/01/offer-66/</id>
+    <published>2023-03-01T11:53:18.000Z</published>
+    <updated>2023-03-01T12:25:38.236Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;p&gt;给定一个数组 &lt;code&gt;A[0,1,…,n-1]&lt;/code&gt;，请构建一个数组 &lt;code&gt;B[0,1,…,n-1]&lt;/code&gt;，其中 &lt;code&gt;B[i]&lt;/code&gt; 的值是数组 &lt;code&gt;A&lt;/code&gt; 中除了下标 &lt;code&gt;i&lt;/code&gt;</summary>
+        
+      
+    
+    
+    
+    <category term="leetcode" scheme="http://nichunen.github.io/categories/leetcode/"/>
+    
+    
+    <category term="leetcode" scheme="http://nichunen.github.io/tags/leetcode/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>offer-65</title>
+    <link href="http://nichunen.github.io/2023/02/28/offer-65/"/>
+    <id>http://nichunen.github.io/2023/02/28/offer-65/</id>
+    <published>2023-02-28T03:34:30.000Z</published>
+    <updated>2023-02-28T06:22:00.923Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;p&gt;写一个函数，求两个整数之和，要求在函数体内不得使用 “+”、“-”、“*”、“/” 四则运算符号。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;示例:&lt;/strong&gt;&lt;/p&gt;
+&lt;pre class=&quot;line-numbers language-none&quot;&gt;&lt;code</summary>
+        
+      
+    
+    
+    
+    <category term="leetcode" scheme="http://nichunen.github.io/categories/leetcode/"/>
+    
+    
+    <category term="leetcode" scheme="http://nichunen.github.io/tags/leetcode/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>offer-64</title>
+    <link href="http://nichunen.github.io/2023/02/27/offer-64/"/>
+    <id>http://nichunen.github.io/2023/02/27/offer-64/</id>
+    <published>2023-02-27T06:54:43.000Z</published>
+    <updated>2023-02-27T07:36:15.302Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;p&gt;求 &lt;code&gt;1+2+...+n&lt;/code&gt; ，要求不能使用乘除法、for、while、if、else、switch、case等关键字及条件判断语句（A?B:C）。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;示例 1：&lt;/strong&gt;&lt;/p&gt;
+&lt;pre</summary>
+        
+      
+    
+    
+    
+    <category term="leetcode" scheme="http://nichunen.github.io/categories/leetcode/"/>
+    
+    
+    <category term="leetcode" scheme="http://nichunen.github.io/tags/leetcode/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>offer-63</title>
+    <link href="http://nichunen.github.io/2023/02/26/offer-63/"/>
+    <id>http://nichunen.github.io/2023/02/26/offer-63/</id>
+    <published>2023-02-26T05:37:37.000Z</published>
+    <updated>2023-02-26T06:58:56.104Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;p&gt;假设把某股票的价格按照时间先后顺序存储在数组中，请问买卖该股票一次可能获得的最大利润是多少？&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;示例 1:&lt;/strong&gt;&lt;/p&gt;
+&lt;pre class=&quot;line-numbers language-none&quot;&gt;&lt;code</summary>
+        
+      
+    
+    
+    
+    <category term="leetcode" scheme="http://nichunen.github.io/categories/leetcode/"/>
+    
+    
+    <category term="leetcode" scheme="http://nichunen.github.io/tags/leetcode/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>offer-62</title>
+    <link href="http://nichunen.github.io/2023/02/24/offer-62/"/>
+    <id>http://nichunen.github.io/2023/02/24/offer-62/</id>
+    <published>2023-02-24T03:29:56.000Z</published>
+    <updated>2023-02-24T07:15:15.177Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;p&gt;0,1,···,n-1这n个数字排成一个圆圈，从数字0开始，每次从这个圆圈里删除第m个数字（删除后从下一个数字开始计数）。求出这个圆圈里剩下的最后一个数字。&lt;/p&gt;
+&lt;p&gt;例如，0、1、2、3、4这5个数字组成一个圆圈，从数字0开始每次删除第3个数字，则删除的前4个数字依次</summary>
+        
+      
+    
+    
+    
+    <category term="leetcode" scheme="http://nichunen.github.io/categories/leetcode/"/>
+    
+    
+    <category term="leetcode" scheme="http://nichunen.github.io/tags/leetcode/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>offer-60</title>
+    <link href="http://nichunen.github.io/2023/02/23/offer-60/"/>
+    <id>http://nichunen.github.io/2023/02/23/offer-60/</id>
+    <published>2023-02-23T03:09:11.000Z</published>
+    <updated>2023-02-23T12:09:32.031Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;p&gt;把n个骰子扔在地上，所有骰子朝上一面的点数之和为s。输入n，打印出s的所有可能的值出现的概率。&lt;/p&gt;
+&lt;p&gt;你需要用一个浮点数数组返回答案，其中第 i 个元素代表这 n 个骰子所能掷出的点数集合中第 i 小的那个的概率。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;示例</summary>
         
       
     
